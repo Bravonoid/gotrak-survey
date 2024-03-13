@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+resources
+
+# Ignore pycache
+__pycache__/
+achievment.json
+data.json
